@@ -1,6 +1,6 @@
 # Crime Mapping for Berkeley 2017
 
--- A LEGALST123 lab question
+-- From LEGALST123 lab 
 
 Berkeley students who are looking for housing may find it helpful. :D
 
